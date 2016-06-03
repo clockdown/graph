@@ -8,7 +8,7 @@ Navigate to the location of the file, please run the executable file in the "Jav
 
 ## Directories
 
-Graph decision
+Graph decision  
   ├── Graph_decision.class  
   ├── Graph_decision.jar  
   ├── Graph_decision.java  
