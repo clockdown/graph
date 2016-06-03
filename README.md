@@ -9,8 +9,8 @@ Navigate to the location of the file, please run the executable file in the "Jav
 ## Directories
 
 Graph decision
-  ├── Graph_decision.class
-  ├── Graph_decision.jar
-  ├── Graph_decision.java
-  ├── MANIFEST.mf
-  └── README.md
+  ├── Graph_decision.class  
+  ├── Graph_decision.jar  
+  ├── Graph_decision.java  
+  ├── MANIFEST.mf  
+  └── README.md  
